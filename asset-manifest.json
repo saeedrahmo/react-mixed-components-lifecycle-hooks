@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-mixed-components-lifecycle-hooks/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-mixed-components-lifecycle-hooks/static/js/main.24763653.chunk.js",
+    "main.js.map": "/react-mixed-components-lifecycle-hooks/static/js/main.24763653.chunk.js.map",
+    "runtime-main.js": "/react-mixed-components-lifecycle-hooks/static/js/runtime-main.a1509172.js",
+    "runtime-main.js.map": "/react-mixed-components-lifecycle-hooks/static/js/runtime-main.a1509172.js.map",
+    "static/css/2.89f067aa.chunk.css": "/react-mixed-components-lifecycle-hooks/static/css/2.89f067aa.chunk.css",
+    "static/js/2.9138740a.chunk.js": "/react-mixed-components-lifecycle-hooks/static/js/2.9138740a.chunk.js",
+    "static/js/2.9138740a.chunk.js.map": "/react-mixed-components-lifecycle-hooks/static/js/2.9138740a.chunk.js.map",
+    "index.html": "/react-mixed-components-lifecycle-hooks/index.html",
+    "precache-manifest.35c4b9080f0164f2ae94fefe9a7c52e8.js": "/react-mixed-components-lifecycle-hooks/precache-manifest.35c4b9080f0164f2ae94fefe9a7c52e8.js",
+    "service-worker.js": "/react-mixed-components-lifecycle-hooks/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/react-mixed-components-lifecycle-hooks/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/react-mixed-components-lifecycle-hooks/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1509172.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.9138740a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.24763653.chunk.js"
+  ]
+}
