@@ -3,6 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## More info
 https://www.dotnettips.info/post/3125/react-16x-%d9%82%d8%b3%d9%85%d8%aa-9-%d8%aa%d8%b1%da%a9%db%8c%d8%a8-%da%a9%d8%a7%d9%85%d9%be%d9%88%d9%86%d9%86%d8%aa%e2%80%8c%d9%87%d8%a7-%d8%a8%d8%ae%d8%b4-3-lifecycle-hooks
 
+## gh-pages instructions
+### `yarn add gh-pages`
+then add the following scripts to package.json
+### `"homepage": "https://saeedrahmo.github.io/react-mixed-components-lifecycle-hooks",`
+### `"predeploy":"yarn build",`
+### `"deploy":"gh-pages -d build"`
+
 
 ## Available Scripts
 
